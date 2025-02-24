@@ -6,7 +6,7 @@ This repository provides a comprehensive framework for scene text detection and 
 
 ## Overview
 
-The repository includes implementations and evaluations of scene text detection methods tailored for Urdu text datasets. Two main components, CRAFT and TedEval, are utilized to detect and evaluate text instances in images.
+The repository includes implementations and evaluations of scene text detection methods tailored for local Indian languages text datasets. Two main components, CRAFT and TedEval, are utilized to detect and evaluate text instances in images.
 
 - **CRAFT**: Modified to improve text detection accuracy, with support for custom configurations and datasets.
 - **TedEval**: Used for detailed evaluation of the detected text regions against ground truths.
